@@ -59,6 +59,9 @@ query_id.../user...
 
 ### 3. `wallets.txt` 💼 - Ton Address
 
+- Wallets generator: [Link](https://github.com/MeoMunDep/Automatic-Ultimate-Create-Wallets-for-Airdrop)
+
+
 ```txt - wallet address
 UQ...
 UQ...
@@ -77,6 +80,6 @@ socks5://user:password@host:port
 💡 Usage:
 
 > You need to `cd` to the file after extract it
-> To run the bot, use the following command: `node bot`
+> To run the bot, use the following command: `cd neuton-main/neuton; node meomundep`
 
 🎇Enjoy!
